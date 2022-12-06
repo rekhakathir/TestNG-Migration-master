@@ -16,8 +16,11 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import  src.test.java.tests.LoginTest
+import src.test.java.tests.LoginTestDemo
 
-LoginTest l = new LoginTest();
-Hashtable<String,String>data;
-l.LoginTest1(data);
+//LoginTestDemo l = new LoginTestDemo()
+
+print "Rekha"
+
+//l.LoginTest1(Runmode,username,password)
+

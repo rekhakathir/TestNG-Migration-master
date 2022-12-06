@@ -25,84 +25,89 @@
          </iterationEntity>
          <testDataId>Data Files/New</testDataId>
       </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Runmode</value>
          <variableId>b3c47757-bcc4-4e85-9ca4-89c2f70c7380</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Fname_registration</value>
          <variableId>2e29a8ab-7918-49ca-8e86-f5aef127be47</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Lname_registration</value>
          <variableId>848c2219-bab1-4870-b791-df80a1c443ec</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phno_registration</value>
          <variableId>e20cd089-06d0-4324-958d-a0ac76e8d7db</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email_registration</value>
          <variableId>58eb7df4-74c8-4843-983c-1b665b29c05a</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>addr_registration</value>
          <variableId>1e8a7988-10f8-4073-95d7-b85189939a43</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city_registration</value>
          <variableId>34c9cbde-f62e-4809-971d-6bf7d5e01dab</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>state_registration</value>
          <variableId>34b71d6a-85f2-4f3f-9cbb-460cdb8295ac</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pincode_registration</value>
          <variableId>6c6e00ed-ee5c-4c46-b8ce-e46026c3dbf6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>countyr_registration</value>
          <variableId>34eccaca-99c1-47c9-b29c-73f47e6c8136</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
          <variableId>ada7942f-4894-4bcd-82b7-eb7fca99b285</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
          <variableId>256eab2d-175a-43c2-b4a9-4535442304f0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b28c05e0-48e9-4510-a2fc-17b2c1750f3d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>COnfirm_password</value>
+         <variableId>523d82f6-8aec-4b96-a6b3-f8c7a78a09a6</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>523d82f6-8aec-4b96-a6b3-f8c7a78a09a6</variableId>
+         <variableId>22ccdab0-a209-4dca-9476-e54dd4661bf2</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
